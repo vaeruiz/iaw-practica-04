@@ -10,7 +10,7 @@ Creamos una nueva instancia en las máquinas de AWS de la misma forma que hemos 
 
 Una vez que se haya creado la máquina nos conectaremos a ella y clonaremos el repositorio de Github.
 
->git clone https://github.com/vaeruiz/iaw-practica-03.git
+>git clone https://github.com/vaeruiz/iaw-practica-04.git
 
 Cuando se haya descargado el repositorio movemos el script a /home/ubuntu:
 
